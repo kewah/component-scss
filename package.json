@@ -1,0 +1,21 @@
+{
+  "name": "component-scss",
+  "version": "0.0.1",
+  "description": "Compile SCSS to CSS using node-sass",
+  "author": "kewah <keuwah@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "component",
+    "scss",
+    "libsass"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kewah/component-scss.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "~0.8.1",
+    "async": "~0.2.10"
+  }
+}
